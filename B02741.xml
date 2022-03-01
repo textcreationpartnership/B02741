@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the dissenters of Ireland consider'd, in reference to the sacramental test.</title>
+            <author>Dopping, Anthony, 1643-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02741</idno>
+            <idno type="STC">Wing D1910</idno>
+            <idno type="STC">ESTC R171816</idno>
+            <idno type="EEBO-CITATION">51784491</idno>
+            <idno type="OCLC">ocm 51784491</idno>
+            <idno type="VID">174906</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02741)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174906)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2705:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the dissenters of Ireland consider'd, in reference to the sacramental test.</title>
+                  <author>Dopping, Anthony, 1643-1697.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Joseph Ray ...,</publisher>
+                  <pubPlace>[Dublin, :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Attributed to Dopping by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Ireland --  Establishment and disestablishment --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Ireland --  17th century --  Early works to 1800.</term>
+               <term>Church and state --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174906:1"/>
+            <pb n="1" facs="tcp:174906:1" rendition="simple:additions"/>
+            <head>THE CASE OF THE DISSENTERS of <hi>IRELAND</hi> Conſider'd, In Reference to the SACRAMENTAL TEST.</head>
+            <p>I Have ever been of an Opinion, That a bare Eaſe to tender Conſciences, was not the thing the Diſſenters aimed at, and that a Bill to that pur<g ref="char:EOLhyphen"/>poſe would not pleaſe them, unleſs they might have Liberty to come into Offices and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. And now <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> length the Myſtery is diſ<g ref="char:EOLhyphen"/>covered, by the Author of the Caſe of the <hi>Proteſtant Diſſenters</hi> in <hi>Ire<g ref="char:EOLhyphen"/>land;</hi> who tells us, That <hi>'tis Dangerous and <g ref="char:V">Ʋ</g>nreaſonable to lay ſuch Reſtraints upon them, as to incapacitate them for Imployments; that it will be rather an Hardſhip than a Favour, and will put them into worſe Circumſtances than they are at preſent.</hi>
+            </p>
+            <p>If the Author of the Caſe had conſider'd the Matter, without any byaſs to his own Party, and how much the Eſtabliſhed Church and Religion is like to loſe, by their conceſſions to Diſſenters, in point of Indulgence, he muſt have thought it Reaſonable; That the Members of it, ſhould have ſome equi<g ref="char:EOLhyphen"/>valent for their Loſſes, and would not have pronounced ſuch hard Things, concerning the <hi>Sacramental Teſt,</hi> which is the only Reſtraint that troubles them, and the ſtrongeſt Security that the Church hath.</p>
+            <p>I preſume, There is a general inclination in all ſober Perſons, to Grant Eaſe to tender Conſciences, in matter of Religion, as far as it is conſiſtent with the Peace of the Civil, and the Security of the Eccleſiaſtical Government; and it is very certain, That as the external profeſſion of Religion, and the injoyment of Civil and Military Offices, are things of a very different Nature, ſo the <hi>Diſſenters</hi> may injoy the one, without deſiring to be admitted to the other: And ſince they are not ſatisfied without both, they give us juſt Reaſon of ſtanding upon our Guard, and to be wary of what conceſſions are granted them, leſt they turn to our own Prejudice: We have felt the rough<g ref="char:EOLhyphen"/>neſs of their Hands, when they were in Power, and have no invitation to try their goood Nature a ſecond time, by putting them into a capacity of doing us Miſchief.</p>
+            <pb n="2" facs="tcp:174906:2" rendition="simple:additions"/>
+            <p>I ſhall not enter into any Debate, with the Author of the Caſe, upon the firſt Head; Viz. That <hi>they ſhould have a Bill for full Security in the free exer<g ref="char:EOLhyphen"/>ciſe of Religion,</hi> if that would content them: For I think it reaſonable and fit to Grant it, as far as it is conſiſtent with the Peace of the State, and the Se<g ref="char:EOLhyphen"/>curity of the Church by Law Eſtabliſhed<g ref="char:punc">▪</g> Tho', by the way, there was a time, when they, that plead now ſo ſtrongly for Toleration, did formerly con<g ref="char:EOLhyphen"/>demn it, as unlawful, when they were in Power, and would not allow it to others: That which I have to Offer, is on the Second Head; That <hi>Modeſtly taxeth the Sacramental Teſt, as a thing hard and unreaſonable to preſs upon them,</hi> but if it can be made appear, that the Eſtabliſhed Church of <hi>Ireland</hi> ſhould have ſome Security, that She ought to have more Security, than the Church of <hi>England</hi> hath, in her <hi>Act of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndulgence,</hi> that the <hi>Sacramental Teſt,</hi> is fit to be inſiſted on, as one Branch of her Security: I hope it will not be thought un<g ref="char:EOLhyphen"/>reaſonable in the Church Party, to deſire it, and that, if the Honourable Par<g ref="char:EOLhyphen"/>liament thinks it not fit to give them any higher Security, they will at leaſt think it reaſonable not to praeclude them the benefit of this, which is ſo neceſ<g ref="char:EOLhyphen"/>ſary to the ſupport of Her Conſtitutions.</p>
+            <p>Firſt, It is reaſonable that the Eſtabliſhed Church and Her Members ſhould have ſome Security: Firſt, becauſe there is no State or Government where Toleration, or Indulgence, to Men of different Perſwaſions, is allowed, but taketh a care to ſecure the Religion and Worſhip of the State againſt all Diſ<g ref="char:EOLhyphen"/>ſenters from it: They will not ſuffer the Religion of the State to be Preached againſt in Publick, nor the Magiſtracy to be poſſeſſed by Diſſenters: All that they are allowed, is freedom of Trade, and exemption, from ſuffering in point of Conſcience: 'Tis ſo in <hi>Holland,</hi> in <hi>Switzerland,</hi> and in the ſeveral Principa<g ref="char:EOLhyphen"/>lities in <hi>Germany,</hi> where <hi>Indulgence</hi> is allowed. Secondly, The Church of <hi>Ireland</hi> parts with <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> preſent Security, and may therefore reaſonably expect an equivalent for them: She parts with Her two <hi>Acts of <g ref="char:V">Ʋ</g>niformity,</hi> which the Wiſdom of former Parlia<g ref="char:EOLhyphen"/>ments thought neceſſary, for the Security of Her Worſhip: And it is expect<g ref="char:EOLhyphen"/>ed, That ſeveral of Her Articles, that ſenced in Her Doctrine, ſhould be quitted in favour to Diſſenters: <hi>Viz,</hi> The 27th <hi>in complyance to the Anabaptiſts:</hi> The 39th <hi>in favour to the Quakers:</hi> The 34, 35, 36th, together with the Clauſe in the 20th Article, <hi>in favour to all Diſſenters:</hi> Nay, ſome of theſe Articles are not the peculiar Doctrine of the Church of <hi>England,</hi> as ſhe ſtands divided from other Communions, but they are the common Doctrines of Chriſtiani<g ref="char:EOLhyphen"/>ty in general; I mean the 27th Article, <hi>relating to Infant Baptiſm;</hi> the diſpen<g ref="char:EOLhyphen"/>ſing with which ſeems to me, to be the quitting of the Cauſe of the whole Catholick Church.</p>
+            <p>Secondly, The Church of <hi>Ireland</hi> hath Reaſon to inſiſt on, and expect more Security, than the Church of <hi>England</hi> hath: Becauſe, Her Circumſtances and Condition is very different from Hers, by Reaſon of the growing Power and Intereſt of the Britiſh among us, and the Obligation they take to lye upon them, of maintaining the Solemn League and Covenant.</p>
+            <p>'Tis well known, That the Britiſh are already poſſeſſed of near one fourth part of the Kingdom, that they have ſpread themſelves into other Provinces, and that there are frequent Colonies coming out of <hi>Scotland</hi> to carry on the Plantation of the Party: That the Commons are generally fond of the Solemn League and Covenant, and retain an Affection for it (though the Nobility and Gentry are otherwiſe affected) That by the Second Article of the Co<g ref="char:EOLhyphen"/>venant, they are bound to endeavour, without reſpect of Perſons, the extirpa<g ref="char:EOLhyphen"/>tion of Prelacy as well as Popery: That the Aſſembly in their Catechi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m,
+<pb n="3" facs="tcp:174906:2"/> have declared, That a falſe Worſhip is not to be Tolerated, that they judge ours to be ſuch: That the Kirk of <hi>Scotland</hi> hath Acted in purſuance to theſe Doctrines, ſince His Majeſties happy Acceſſion to the Crown, and would allow no Toleration to the Church Party in <hi>Scotland,</hi> tho' they received ſeveral Meſ<g ref="char:EOLhyphen"/>ſages from His Majeſty, in favour of their Perſecuted Brethren: So that by theſe Doctrines and Practices; 'tis eaſie to infer, what ſort of Uſage we are to expect from them, if they had the Power in their own Hands, and they cannot think it unreaſonable, that ſome ſtop ſhould be put to that Power, which when once graſped, will put them upon the Execution of their Princi<g ref="char:EOLhyphen"/>ples, without any reſpect to Age, Sex, or Condition: No State did ever yet put its Subjects, into Places of Truſt and Power, that thought themſelves ob<g ref="char:EOLhyphen"/>liged in Conſcience to overturn its Conſtitutions, and if ours conſents to it, it will be the firſt, and the only one, that ever did it: Indeed, if by any Pub<g ref="char:EOLhyphen"/>lick Authentick Act, they would declare, either againſt the Second Article of the Covenant, or the Clauſe in the Aſſemblies Catechiſm, it would be ſome Motive, to the Church Party to lay aſide their Jealouſies: But till that be done they have no Reaſon, to be offended with their Brethren of the Church of <hi>Ireland,</hi> for deſiring ſuch a Security, as may be conſiſtent with their future Safety.</p>
+            <p>Thirdly, The <hi>Sacramental Teſt</hi> is fit and reaſonable, to be inſiſted on, as one Branch of the Churches Security: Firſt, Becauſe it ſeems conſonant to Reaſon, That, if the Diſſenters in <hi>Ireland</hi> be Eſtabliſhed upon the ſame foot of Indulgence withtheir Brethren in <hi>England,</hi> the Church Party, ſhould be Eſta<g ref="char:EOLhyphen"/>bliſhed upon the ſame foot of Security, with the Church of <hi>England:</hi> Secondly, Becauſe it is deſigned for two good Ends and Purpoſes. Firſt, To Reconcile them to a good opinion of the conſtitutions of the Church, by obliging them to <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Secondly, To prae<g ref="char:EOLhyphen"/>clude them, the capacity of doing themſelves and us Miſchief, by admitting them to places of Truſt and Power: To perſwade the Church Party to lay this Teſt aſide, is every way as unreaſonable, as if the French King ſhould perſwade the Dutch, to break down all their Dikes, and diſmantle their Garriſons, which are their great Strength and Security againſt his Incroachments.</p>
+            <p>Nor will the Objections againſt it be of any moment with him, that conſiders theſe following Particulars.</p>
+            <p>Firſt, That the <hi>Sacramental Teſt,</hi> was deſigned againſt the Diſſenters, as well as the Papiſts: Becauſe, The Government of <hi>England</hi> thought it ſelf, in equal Danger from them both: And tho' the Title of the Act may ſeem to favour the Objection, yet really it doth not; for 'tis well known to them that are verſed in Laws, that fair and ſpecious Titles, are frequently put to Acts, to make them paſs more eaſily with the people.</p>
+            <p>Secondly, That ſuch a Teſt is not againſt the common Proteſtant intereſt of <hi>Ireland:</hi> It will neither diſcourage Foreigners from Planting here, nor weak<g ref="char:EOLhyphen"/>en the Hands of our own Country Men, againſt the common Enemy: It will not diſcourage Foreigners, who deſire no more than freedom of Trade, and Liberty of Conſcience; Witneſs the ſeveral Families that came into this King<g ref="char:EOLhyphen"/>dom, ſince the paſſing of the Act 14 and 15 <hi>Car.</hi> II. for Encouragement of Proteſtant Strangers: Nay, They are ſo far from being diſcouraged from Planting here, ſo little averſe to the publick Worſhip of the Church, That they blame our Diſſenting Brethren for their Seperation, that many of them have United themſelves to our Churches, and have been conſtant Communi<g ref="char:EOLhyphen"/>cants in our Worſhip: Witneſs ſeveral Dutch Families, and the French Con<g ref="char:EOLhyphen"/>gregation in St. <hi>Patrick's</hi> Church, <hi>Dublin:</hi> and I do not doubt, but that more
+<pb n="4" facs="tcp:174906:3"/> of them would Conform, did not our Diſſenters endeavour to ſower their Tempers againſt the Orders of the Church; I remember the time, when the Diſſenters Supported and Encouraged a French Preacher, to raiſe a Schiſm in the French Congregation at St. <hi>Patricks:</hi> And I have been much miſinformed, if they have not been buſie ſince this Happy Revolution, with the French Re<g ref="char:EOLhyphen"/>fugees, to perſwade them not to joyn in Communion with our Church.</p>
+            <p>And as the preſſing of this Teſt will not diſcourage Foreign Proteſtants, ſo it will not weaken the Hands of our Country Men, againſt the common Ene<g ref="char:EOLhyphen"/>mies of our Religion: They have other Reaſons to engage them in the com<g ref="char:EOLhyphen"/>mon cauſe againſt Popery, then ſuch as are derived from the hopes of Re<g ref="char:EOLhyphen"/>compence, by Offices and Imployments; <hi>Viz.</hi> The Security of their Lives, Liberties, Eſtates and Poſſeſſions, the fears of Slavery, and the hazards of loſing all that they enjoy Peaceably, the diſmal apprehenſions of Maſſacre, and the dangers of being Plundered of all their worldly Subſtance; Theſe I pre<g ref="char:EOLhyphen"/>ſume were the great incentives to the generous Perſons in <hi>Derry, Crum,</hi> and <hi>Inniskillin,</hi> to Arm themſelves in the common Cauſe of their Brethren, and not the uncertain hopes of enjoying Offices, and Employments; which all of them could not pretend to, and moſt were diſappointed of, and for which, many, to this day, have received no manner of Recompence, ſave only their Share and Part in the common Deliverance: And if theſe have been ſufficient motives for the time paſt, to engage them in a Defenſive War, they may, and will be as urgent for the future, notwithſtanding all the Surmiſes of the Diſ<g ref="char:EOLhyphen"/>ſenters Caſe to the contrary.</p>
+            <p>Thirdly, 'Tis agreeable to the Judgment of the Parliament of <hi>England,</hi> That the Teſt ſhould be impoſed here, becauſe they have retained it there, and preſerved it as a Pat<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ern for <hi>Ireland</hi> to imitate; and ſince, in the Act made in <hi>England</hi> relating to this Kingdom, they did not think fit to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Impo<g ref="char:EOLhyphen"/>ſition of it; 'tis more than a Preſumption, That they thought it reaſonable to leave <hi>Ireland</hi> to its own Liberty, in providing ſuch Security for its ſelf, as by the Wiſdom of its Parliament ſhould be thought convenient: It was their Work to ſecure us from thoſe Dangers, that were brought upon us by the Iriſh Papiſts; and to prevent the continuance of them, in caſe K. <hi>J</hi> had been Re<g ref="char:EOLhyphen"/>ſtored to the Throne; but not to abridge our Liberty, of providing for our ſelves, in other matters, relating to the publick Safety: And the Author might as well have Argued, becauſe they mentioned only the Oath of Fidelity, and the Teſt againſt Popery, that they did therefore think the Circumſtances of <hi>Ireland,</hi> incapable of any farther Security: Nay, it will follow from his Prin<g ref="char:EOLhyphen"/>ciples, That they intended no Toleration for <hi>Ireland,</hi> becauſe they did not mention it in their Act.</p>
+            <p>Fourthly, The impoſing of it, is not unreaſonable. If the Diſſenters are better without a <hi>Bill of Indulgence,</hi> by the favour of His Majeſty; 'tis their beſt way to ſtick to that, and not to preſs for it by a Law: Tho' with Sub<g ref="char:EOLhyphen"/>miſſion to the Authors Politicks, 'tis much better for them to have a ſettled Toleration, than a precarious Indulgence: If they think the Teſt a clog to their Ambition or Liberty, they know how to evade it, by their Doctrine of occaſional Communion, which ſeems to be invented to Lull the Conſciences of their undiſcerning Zealots aſleep, and to capacitate them for Imployments: If ſome deſerving Men muſt loſe their preſent Imployments, and others their future hopes of them, by the Impoſition of the Teſt, there is a ready way for them to extricare themſelves out of the Dilemma, by endeavouring to be bet<g ref="char:EOLhyphen"/>ter informed, and laying aſide their Nice and Groundleſs Scruples: And I pre<g ref="char:EOLhyphen"/>ſume, the generality of the Diſſenters are not of ſuch Tender, and Squea<g ref="char:EOLhyphen"/>miſh
+<pb n="5" facs="tcp:174906:3"/> Stomachs, but that they could digeſt a much harder Morſel, than the Teſt, rather than quit a beneficial Imployment.</p>
+            <p>The impoſing of this, is not to Treat them with the ſame Rigour, that we do the Papiſts, but to Rouſe them into a conſideration of their Scruples; and to open a Door of Mercy and Kindneſs to them, by laying a foundation of a ſincere and laſting Love and Amity among our ſelves: And inſtead of being Of<g ref="char:EOLhyphen"/>fended, they will have Reaſon to thank us for doing them a double Benefit at once, the curing the Errors of their Mind, and providing for the Neceſſities of their Fortune.</p>
+            <p>Fifthly, The Receiving of the Sacrament may be employed, as a fit Teſt of admiſſion to Imployments: There was a time, when it was thought no Evil to uſe it as an Inſtrument of Purgation; witneſs the Caſe of K. <hi>Lotharius</hi> that purged his Innocency and the Synod of <hi>Worms,</hi> that required the Monks to purge themſelves of Crimes; by the Recep<g ref="char:EOLhyphen"/>tion of it, and at this day no Man thinks it amiſs, on the Reception of the Ho<g ref="char:EOLhyphen"/>ly Sacrament; to ſay; That as he hopes for any Benefit by it, he is not guilty of ſuch a Crime laid to his Charge. And if it be no proftitution of that Holy My<g ref="char:EOLhyphen"/>ſtery, to uſe it as a Symbol of Purgation; is it any Crime in the State to uſe it as a diſcrimination between the Good and the Bad, betwixt him that fears God, and him that fears him not; and to deny her Employments to thoſe, that are careleſs of their Salvation. This is not to impoſe it as a Pennance on any one, for he is free to quit it as well as the Imployment, but to oblige and encourage him to his Duty, by Temporal Rewards and Puniſhments. And if Men will not court ſo Holy an Ordinance, as their Priviledge, 'tis fit for the State to com<g ref="char:EOLhyphen"/>pel them to it, becauſe every Government is reſponſible to God, for not ſuppreſ<g ref="char:EOLhyphen"/>ſing the Immoralities of its Subjects. If Men will venture upon the Sacrament, rather than want Imployments, the Fault is not in the Teſt, but in their own corrupt Hearts, that will chuſe rather to <hi>Prophane the Table than want Bread,</hi> as the Author ſpeaks.</p>
+            <p>But becauſe the Author ſlides from this, to the Mode or Geſture of Receiv<g ref="char:EOLhyphen"/>ing; and tells us, That it doth not deſerve to have that ſtreſs layed upon it, as to be made the foundation of ſo vaſt a diſtinction, in reference to Civil Rites; becauſe it is an incloſing of that Table, which our Lord hath left common: And becauſe the real Intereſt of Religion is not concerned in it: I ſhall crave the liberty to reply theſe following Particulars.</p>
+            <p>Firſt, That there was a time when a thing far leſs defencible, was made the foundation of ſuch a Diſtinction; I mean the Solemn League and Covenant. All that refuſed it, were turned out of Employments, and none cou'd be admit<g ref="char:EOLhyphen"/>ted to them, that did not take that unlawful Covenant. They that are ſo acute as to ſpy a Mote in the Eye of their Brethren, ſhould pluck the Beam out of their own.</p>
+            <p>Secondly, The Kneeling Poſturs, is no more an incloſure of the Lords Table, then the Sitting Poſture is, which the Directory has injoyned; and ſince our Bleſſed Saviour, has not preſcribed the Geſture, in which the Elements are to be received, 'tis as lawful for our Church to preſcribe an Incloſure as for theirs.</p>
+            <p>Thirdly, That if the Kneeling Poſture be ſo Trivial a Matter as the Author ſuggeſts, then his Party are inexcuſable, in raiſing ſuch Clamours about it, and in unqualifying themſelves to ſerve the State on account of a thing which they eſteem a Triſle: But the Truth is, tho' the Poſture it ſelf <hi>ſe mota Authoritate im<g ref="char:EOLhyphen"/>ponent is</hi> may be indifferent; yet, when 'tis once enjoyned by lawful Authority, he intereſt of Religion is concerned in the wilful contempt of the Rules and Orders of the Church, becauſe 'tis a ſtriking at that Authority which our Bleſſed Lord has
+<pb n="6" facs="tcp:174906:4"/> placed in the Governours of the Church. Either the Church has a Power of determining indifferent things, or She has not; if not, farewel all Government in Church and State, whoſe Commands are chiefly imployed about ſuch Matters; but if She has a Power in ſuch Things, and the State thinks fit to concur with Her in impoſing them, then the Diſſenters are unreaſonable, in breaking with both for a Trifle. And now 'tis no hard matter to turn the Authors ſubſequent Reaſons on himſelf, that ſince 'tis the Intereſt of Government, to keep perſons out of Power, that have no Affections to its Conſtitutions, ſhall a way be open<g ref="char:EOLunhyphen"/>ed to put them into a capacity of Ruining them, would not a Wiſe Man lop off a corrupt Member, for fear of infecting the ſounder Parts: And to ſuppoſe, that perſons, who are no Friends to the Conſtitutions of the Government, though of never ſo great Wiſdom and Ability, are to be admitted into the Adminiſtra<g ref="char:EOLhyphen"/>tion of Publick Affairs, is in effect, to poſtpone the publick Peace and Settle<g ref="char:EOLhyphen"/>ment, to the Intereſt of a few private and ſolf deſigning Perſons.</p>
+            <p>Sixthly, The Eſtabliſhed Church will be endangered; if the <hi>Bill of Indulgence</hi> paſſeth without the <hi>Sacramental Teſt.</hi> Indeed, if all that the Eſtabliſhed Church minded, were their Temporal Honours and Revenues, the Author might poſſi<g ref="char:EOLhyphen"/>bly be in the Right; but we deſire him to conſider, That we are more concern<g ref="char:EOLhyphen"/>ed for the Miſchief of Separation, and the good of Souls, than the hazard of our Tithes and Revenues, He muſt ſuppoſe us to be very worldly, if he thinks we are concerned for nothing elſe. Alaſs, what do theſe things ſignifie, in compa<g ref="char:EOLhyphen"/>riſion of the Souls of the People committed to our Charge; what comfort is it to us, to ſee the Fruits of our Miniſtry diſappointed, and the people drawn away from us into Error and Diviſion, and the pernicious Conſequences that attend them? What pleaſure is it to us, to ſee our Purſes full, and our Churches empty, to have the Hearts of our Flocks firſt ſtolen from us, and then the maintenance taken away, for want of People to frequent our Worſhip. For my part, I value theſe things ſo little, That I could be content to be recuced to the Neceſtities of the Apoſtles, ſo that I might but live to ſee a Period to <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; and Peace, and Charity once more ſetled in the Church. This would be a more comforta<g ref="char:EOLhyphen"/>ble, and reviving State, than all the Revenues of the Church are worth.</p>
+            <p>We are not offended, that a few of your Party, are admitted to enjoy a ſhare in the effects of His Majeſties favour, but we are afraid of opening a Door to let the whole Party in; we do not accuſe you of any unpeaceable Turbulency to wards your Neighbours; but we humbly crave leave to ſay, that you Magnifie the Merits of your Party too much, and undervalue the Deſerts of others, in ſaying that it was you that preſerved the Nation from Ruin; I pray let others have a ſhare in the Glory of the Action, as well as your ſelves; for if I am ere<g ref="char:EOLunhyphen"/>dibly informed, there was none of your Party ingaged in the hazardous Action at <hi>Crum,</hi> few or none at <hi>Iniskillen,</hi> and in <hi>Derry</hi> you had but a common ſhare with others in the ſaving of the Nation. What ſhall we ſay of the ſeveral un<g ref="char:EOLhyphen"/>dertakings in <hi>Munſter,</hi> and <hi>Connaght;</hi> are they to be imputed to your Party alſo; no certainly, for your ſelves being Witneſſes, you know, that many of them came to <hi>Iniskillen,</hi> after the inſucceſsfulneſs of their Affairs in other Places: I beſeech you do not Eclipſe the Glory of others to gain a Splendor to your ſelves: But give us leave to ſay, That we have deſerved as well of the Government as you have done; and have as juſt pretences to Security, as you have to Indul<g ref="char:EOLhyphen"/>gence; and if a Medium can be found, whereby to ſecure Us and content You, I ſhall not be againſt it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DUBLIN,</hi> Printed by <hi>Joſeph Ray</hi> at the 3 <hi>Nags-Heads</hi> in <hi>Eſſex-ſtreet.</hi> 1695.</p>
+            <pb facs="tcp:174906:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
